@@ -15,6 +15,10 @@ You will invoke each function multiple times with an increasingly large lists. *
 
 Finally, after you have observed the number of operations for each function call, **you will plot them on [this graph](https://www.desmos.com/calculator/rlh5wglbky) to better visualize how they scale.**
 
+**Last but not least, you must answer all 4 essential questions in the README file!**
+
+
+
 ## 1. Append Random
 
 ```
